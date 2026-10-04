@@ -18,7 +18,7 @@ Sign in with your Google account in the app to start a **free 7-day trial**. Aft
 
 - **Trading is risky.** The bot can lose money and has lost money in testing. Past results don't predict future results. **This is not financial advice.**
 - **Demo accounts only by default.** Bubat AI refuses real-money accounts unless you change a setting by hand.
-- During the free trial the bot's trade results are shared with the Bubat AI community database to improve the bot: never your account number, balance or money amounts. See the [Privacy Policy](PRIVACY.md) and the [Terms](TERMS.txt).
+- During the free trial the bot's trade results are shared with the Bubat AI community database to improve the bot: never your account number, balance or money amounts. See the [Privacy Policy](https://eabudakubat.com/privacy) and the [Terms](https://eabudakubat.com/terms).
 
 ## "Windows protected your PC"
 
