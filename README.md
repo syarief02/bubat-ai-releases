@@ -2,6 +2,8 @@
 
 An automated forex trading agent for **MetaTrader 5** that runs on your own PC, with a local AI model (no cloud AI, no subscription to an AI service).
 
+📖 **Full user guide: [eabudakubat.com/bubat-ai](https://eabudakubat.com/bubat-ai)** (how it trades, the 16 safety walls, install, trial, troubleshooting, FAQ).
+
 ## Download
 
 Get **`BubatAI-Setup-<version>.exe`** from the [latest release](https://github.com/syarief02/bubat-ai-releases/releases/latest) and run it. No administrator rights, Python or other tools needed: the installer checks your PC, and on first start Bubat AI downloads the AI engine (Ollama) and the AI models that fit your PC.
