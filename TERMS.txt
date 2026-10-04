@@ -1,0 +1,32 @@
+BUBAT AI - RISK NOTICE AND TERMS OF USE
+
+Please read carefully. You must accept these terms to install Bubat AI.
+
+1. WHAT BUBAT AI IS
+Bubat AI is experimental software that trades forex automatically in a MetaTrader 5 account, using an AI model that runs on your own computer. It is a hobby project, not a licensed financial product or service.
+
+2. TRADING IS RISKY
+Trading foreign exchange and gold on margin carries a high level of risk and may not be suitable for you. You can lose money quickly. The bot has lost money in testing. Past results, including any shown in the app, do not predict future results.
+
+3. DEMO ACCOUNTS ONLY BY DEFAULT
+Bubat AI refuses to trade real-money accounts unless you deliberately change a setting by hand (risk_parameters.allow_live_trading in config.json). Test it on a demo account for weeks before you even consider real money. If you do enable real-money trading, you do so entirely at your own risk.
+
+4. NOT FINANCIAL ADVICE
+Nothing in Bubat AI, its chat answers, signals, entry/take-profit/stop-loss suggestions or reports is financial advice or a recommendation to buy or sell anything. The AI can be wrong, slow, or unavailable, and it can misunderstand the market.
+
+5. YOUR RESPONSIBILITY
+You are responsible for your trading account, your broker's terms, any taxes, and for watching what the bot does. Keep your computer, MetaTrader 5 and internet connection running reliably while the bot trades; a crash, sleep, power cut or lost connection can leave trades unmanaged (open trades keep their stop loss and take profit in MetaTrader 5).
+
+6. NO WARRANTY
+The software is provided "as is", without warranty of any kind, express or implied. In no event shall the authors be liable for any claim, damages, trading losses or other liability arising from the use of the software.
+
+7. ACCOUNT, FREE TRIAL AND LICENSE
+Bubat AI needs you to sign in with a Google account. Each account gets one free 7-day trial (one per PC). After the trial, new trades pause until you have a license: contact support@eabudakubat.com or visit https://eabudakubat.com. Trades that are already open keep being managed. The license is personal and may be revoked if these terms are broken.
+
+8. DATA YOU SHARE
+During the free trial, the app shares your bot's trade results (symbol, buy/sell, session, times, result in R and pips, exit type, app version, AI model, broker server name) with the Bubat AI community database to improve the bot. It never shares your account number, balance, money amounts, passwords or chats. Licensed users can turn sharing off, and anyone can delete their shared data in Settings. Your Google email is used for your license. Full privacy policy: https://github.com/syarief02/bubat-ai-releases/blob/main/PRIVACY.md
+
+9. WHAT IS INSTALLED AND DOWNLOADED
+Bubat AI installs into your user folder and needs no administrator rights. On first start it can download and install Ollama (an AI engine, about 1.6 GB, from ollama.com) and AI models (about 3 to 20 GB, from ollama.com) that fit your computer. Updates are downloaded from the project's official GitHub releases, verified with a checksum and tested before they are installed. Apart from the data described in section 8, Bubat AI does not send your account details anywhere; it reads news from public websites.
+
+By clicking "I accept the agreement" you confirm that you have read and understood this notice and accept these terms.
