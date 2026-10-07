@@ -1,6 +1,6 @@
 # Bubat AI Privacy Policy
 
-_Last updated: 4 October 2026_
+_Last updated: 7 October 2026_
 
 Bubat AI is a forex trading agent that runs on your own Windows PC. This policy explains what information leaves your PC, why, and what you can do about it. Contact: **support@eabudakubat.com** · **https://eabudakubat.com**
 
@@ -23,19 +23,28 @@ To improve Bubat AI for everyone, the app shares the results of trades **the bot
 - **With a license you can turn sharing off** in Settings at any time.
 - **You can delete everything you have shared** with *Delete my shared data* in Settings.
 
-**4. Updates and news.** The app downloads updates from our GitHub releases page and reads public financial news websites. These sites may see your IP address, as with any web visit.
+**4. Your AI's trading signals (shared learning).**
+So that every Bubat AI learns faster, the app shares the **signals** its AI makes: for each buy or sell call, the currency pair, buy or sell, the time (to the minute), the AI's confidence, the AI model and the app version, plus a one-way code that prevents duplicates. It **never** includes your account number, balance, money amounts, lot sizes, your broker, the AI's reasoning or chats, or whether a trade was placed.
+
+These signals are **shared with other Bubat AI users' apps**, without your email or any other identity, so their AI can learn from them; each app works out the result of a signal itself from public market prices. Your app receives other users' signals in the same anonymous form.
+
+- **During the free trial, sharing signals is part of the trial.**
+- **With a license you can turn it off** in Settings; your app then also stops receiving other users' signals.
+- Signals are deleted after **90 days**, and you can delete yours at any time with *Delete my shared data* in Settings.
+
+**5. Updates and news.** The app downloads updates from our GitHub releases page and reads public financial news websites. These sites may see your IP address, as with any web visit.
 
 ## Where it is stored and who sees it
 
-Data is stored with **Supabase** (our database and sign-in provider). Only the Bubat AI owner can read it. Community trade results are analysed in aggregate (for example the average result per currency pair) to improve the bot; we do not sell or share personal data with anyone else.
+Data is stored with **Supabase** (our database and sign-in provider, Singapore region). Only the Bubat AI owner can read your email, license and trade results. Shared signals (item 4) are given to other users' apps without your identity. Community trade results are analysed in aggregate (for example the average result per currency pair) to improve the bot; we do not sell personal data or share it with anyone else.
 
 ## How long we keep it
 
-Your email and license record are kept while you use Bubat AI, plus up to 12 months after your last sign-in. Shared trade results are kept until you delete them or ask us to.
+Your email and license record are kept while you use Bubat AI, plus up to 12 months after your last sign-in. Shared trade results are kept until you delete them or ask us to. Shared signals are kept for 90 days, or until you delete them.
 
 ## Your rights
 
-You can ask what we hold about you, ask us to correct it, or ask us to delete your account and data, by emailing **support@eabudakubat.com**. You can delete your shared trade results yourself in the app at any time. Bubat AI is operated from Malaysia and follows the Personal Data Protection Act 2010 (PDPA).
+You can ask what we hold about you, ask us to correct it, or ask us to delete your account and data, by emailing **support@eabudakubat.com**. You can delete your shared trade results and signals yourself in the app at any time. Bubat AI is operated from Malaysia and follows the Personal Data Protection Act 2010 (PDPA).
 
 ## Changes
 
